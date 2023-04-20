@@ -1,4 +1,4 @@
-# Python script to be able to automatly create the first wiki page in Github.
+# Python script to be able to automatically create the first wiki page in Github.
 
 # The script will:
 * Navigate to github.com
@@ -10,11 +10,10 @@
 * Find "create the first page"-tab and click it
 * Find "save"-tab and click it.
 
-
 Done!! Your wiki is now ready to go!
 
 ## Set up
-# Create a virtual environment
+# Create a virtual environment. If you are alredy using WSL and have python and pip installed, jump down to line 30. 
 Creating a Virtual Environment with WSL2 and Linux on Windows 11
 1. Installing WSL2. Using the command line
 * Open a command prompt as an Administrator and run the following line of code:
